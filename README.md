@@ -1,3 +1,3 @@
 # Chaos_Royale
- Game Engines Project
+ Game Engines Project  
  Authors: Matúš Drahovský, Juraj Gavura
