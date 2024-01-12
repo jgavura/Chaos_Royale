@@ -1,0 +1,6 @@
+2024/01/12-14:06:49.182 3f94 Creating DB D:/Users/Python_Projekty/matfyz/ZS3/GE/Chaos_Royale/TopDown2DShooter/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2024/01/12-14:06:49.353 3f94 Reusing MANIFEST D:/Users/Python_Projekty/matfyz/ZS3/GE/Chaos_Royale/TopDown2DShooter/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/01/12-14:11:00.023 838 Level-0 table #5: started
+2024/01/12-14:11:00.141 838 Level-0 table #5: 1167 bytes OK
+2024/01/12-14:11:00.165 838 Delete type=0 #3
+2024/01/12-14:11:00.185 838 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
