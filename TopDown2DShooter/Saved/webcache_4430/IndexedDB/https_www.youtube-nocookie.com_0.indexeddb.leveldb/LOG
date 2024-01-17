@@ -1,0 +1,15 @@
+2024/01/17-17:56:31.359 4fc8 Reusing MANIFEST D:/Users/Python_Projekty/matfyz/ZS3/GE/Chaos_Royale/TopDown2DShooter/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/01/17-17:56:31.359 4fc8 Recovering log #11
+2024/01/17-17:56:31.360 4fc8 Reusing old log D:/Users/Python_Projekty/matfyz/ZS3/GE/Chaos_Royale/TopDown2DShooter/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000011.log 
+2024/01/17-18:31:06.484 1794 Level-0 table #16: started
+2024/01/17-18:31:06.502 1794 Level-0 table #16: 190 bytes OK
+2024/01/17-18:31:06.560 1794 Delete type=0 #11
+2024/01/17-18:31:06.560 1794 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/01/17-18:31:06.560 1794 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x05' @ 73 : 1
+2024/01/17-18:31:06.560 1794 Compacting 1@1 + 1@2 files
+2024/01/17-18:31:06.578 1794 Generated table #17@1: 18 keys, 536 bytes
+2024/01/17-18:31:06.578 1794 Compacted 1@1 + 1@2 files => 536 bytes
+2024/01/17-18:31:06.609 1794 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/01/17-18:31:06.610 1794 Delete type=2 #13
+2024/01/17-18:31:06.610 1794 Delete type=2 #16
+2024/01/17-18:31:06.610 1794 Manual compaction at level-1 from '\x00\x00\x00\x00\x05' @ 73 : 1 .. (end); will stop at (end)
