@@ -1,3 +1,2 @@
-2024/01/12-18:55:09.631 2860 Reusing MANIFEST D:/Users/Python_Projekty/matfyz/ZS3/GE/Chaos_Royale/TopDown2DShooter/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2024/01/12-18:55:09.632 2860 Recovering log #3
-2024/01/12-18:55:09.632 2860 Reusing old log D:/Users/Python_Projekty/matfyz/ZS3/GE/Chaos_Royale/TopDown2DShooter/Saved/webcache_4430\Local Storage\leveldb/000003.log 
+2024/01/16-20:15:16.631 623c Creating DB D:/Chaos_Royale/TopDown2DShooter/Saved/webcache_4430\Local Storage\leveldb since it was missing.
+2024/01/16-20:15:16.638 623c Reusing MANIFEST D:/Chaos_Royale/TopDown2DShooter/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
