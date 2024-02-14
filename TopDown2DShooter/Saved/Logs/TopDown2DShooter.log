@@ -13779,3 +13779,864 @@ Script Stack (0 frames) :
 [2024.02.14-09.00.27:716][884]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 3.40 sec)
 [2024.02.14-09.00.27:728][884]AssetCheck: New page: Asset Save: NewHUD
 [2024.02.14-09.00.27:728][884]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/HUD/NewHUD.NewHUD
+[2024.02.14-09.02.21:900][693]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.14-09.02.21:921][694]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.14-09.02.22:017][695]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.14-09.02.22:051][696]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.14-09.02.22:111][697]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.14-09.02.29:275][219]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LevelMass/BPP_WoodenHouseTunnel.BPP_WoodenHouseTunnel
+[2024.02.14-09.02.29:275][219]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.14-09.02.29:276][219]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.14-09.02.37:033][ 19]LogWorld: UWorld::CleanupWorld for World_52, bSessionEnded=true, bCleanupResources=true
+[2024.02.14-09.02.37:033][ 19]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.14-09.07.27:400][333]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2024.02.14-09.07.27:404][333]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Level_01' took 0.036
+[2024.02.14-09.07.27:405][333]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/HUD/NewHUD] ([2] browsable assets)...
+[2024.02.14-09.07.27:405][333]OBJ SavePackage: Finished generating thumbnails for package [/Game/HUD/NewHUD]
+[2024.02.14-09.07.27:405][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/NewHUD" FILE="../../../../../Python_Projekty/matfyz/ZS3/GE/Chaos_Royale/TopDown2DShooter/Saved/Autosaves/Game/HUD/NewHUD_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2024.02.14-09.07.27:417][333]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/HUD/NewHUD_Auto2
+[2024.02.14-09.07.27:417][333]LogSavePackage: Moving '../../../../../Python_Projekty/matfyz/ZS3/GE/Chaos_Royale/TopDown2DShooter/Saved/NewHUD_Auto25D9FFC694AC7E52F9CB7BF8ACA67A446.tmp' to '../../../../../Python_Projekty/matfyz/ZS3/GE/Chaos_Royale/TopDown2DShooter/Saved/Autosaves/Game/HUD/NewHUD_Auto2.uasset'
+[2024.02.14-09.07.27:418][333]LogFileHelpers: Auto-saving content packages took 0.013
+[2024.02.14-09.07.41:594][305]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.02.14-09.07.41:692][305]LogSkeletalMesh: Display: OnRegister[/Game/ParagonRevenant/Characters/Heroes/Revenant/Skins/ChronoBoss/Meshes/Revenant_ChronoBoss.Revenant_ChronoBoss]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2024.02.14-09.07.41:692][305]LogSkeletalMesh: Display: OnRegister[/Game/ParagonRevenant/Characters/Heroes/Revenant/Skins/ChronoBoss/Meshes/Revenant_ChronoBoss.Revenant_ChronoBoss]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2024.02.14-09.07.41:699][305]LogSkeletalMesh: Display: OnRegister[/Game/ParagonRevenant/Characters/Heroes/Revenant/Skins/ChronoBoss/Meshes/Revenant_ChronoBoss.Revenant_ChronoBoss]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2024.02.14-09.07.41:699][305]LogSkeletalMesh: Display: OnRegister[/Game/ParagonRevenant/Characters/Heroes/Revenant/Skins/ChronoBoss/Meshes/Revenant_ChronoBoss.Revenant_ChronoBoss]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2024.02.14-09.07.41:703][305]LogSkeletalMesh: Display: OnRegister[/Game/ParagonRevenant/Characters/Heroes/Revenant/Skins/ChronoBoss/Meshes/Revenant_ChronoBoss.Revenant_ChronoBoss]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2024.02.14-09.07.41:703][305]LogSkeletalMesh: Display: OnRegister[/Game/ParagonRevenant/Characters/Heroes/Revenant/Skins/ChronoBoss/Meshes/Revenant_ChronoBoss.Revenant_ChronoBoss]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2024.02.14-09.07.41:754][305]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.02.14-09.07.41:767][305]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.02.14-09.07.41:768][305]LogScript: Warning: Script Msg called by: Revenant_AnimBlueprint_C /Engine/Transient.World_7:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.Revenant_AnimBlueprint_C_1
+[2024.02.14-09.07.41:768][305]LogAnimation: Error: AnimDynamics: Attempted to find bone chain starting at gun_handle_chain_back_03 and ending at gun_handle_chain_back_02 but failed.
+[2024.02.14-09.07.41:768][305]LogAnimation: Error: AnimDynamics: Attempted to find bone chain starting at gun_handle_chain_front_03 and ending at gun_handle_chain_front_02 but failed.
+[2024.02.14-09.07.41:770][305]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.02.14-09.07.41:770][305]LogScript: Warning: Script Msg called by: Revenant_AnimBlueprint_C /Engine/Transient.World_18:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.Revenant_AnimBlueprint_C_1
+[2024.02.14-09.07.41:770][305]LogAnimation: Error: AnimDynamics: Attempted to find bone chain starting at gun_handle_chain_back_03 and ending at gun_handle_chain_back_02 but failed.
+[2024.02.14-09.07.41:771][305]LogAnimation: Error: AnimDynamics: Attempted to find bone chain starting at gun_handle_chain_front_03 and ending at gun_handle_chain_front_02 but failed.
+[2024.02.14-09.07.41:773][305]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.02.14-09.07.41:773][305]LogScript: Warning: Script Msg called by: Revenant_AnimBlueprint_C /Engine/Transient.World_6:PersistentLevel.BP_ThirdPersonCharacter_C_16.CharacterMesh0.Revenant_AnimBlueprint_C_1
+[2024.02.14-09.07.41:773][305]LogAnimation: Error: AnimDynamics: Attempted to find bone chain starting at gun_handle_chain_back_03 and ending at gun_handle_chain_back_02 but failed.
+[2024.02.14-09.07.41:773][305]LogAnimation: Error: AnimDynamics: Attempted to find bone chain starting at gun_handle_chain_front_03 and ending at gun_handle_chain_front_02 but failed.
+[2024.02.14-09.07.41:774][305]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.02.14-09.07.41:774][305]LogScript: Warning: Script Msg called by: Revenant_AnimBlueprint_C /Engine/Transient.World_6:PersistentLevel.BP_ThirdPersonCharacter_C_17.CharacterMesh0.Revenant_AnimBlueprint_C_0
+[2024.02.14-09.07.41:775][305]LogAnimation: Error: AnimDynamics: Attempted to find bone chain starting at gun_handle_chain_back_03 and ending at gun_handle_chain_back_02 but failed.
+[2024.02.14-09.07.41:775][305]LogAnimation: Error: AnimDynamics: Attempted to find bone chain starting at gun_handle_chain_front_03 and ending at gun_handle_chain_front_02 but failed.
+[2024.02.14-09.07.41:775][305]LogSkeletalMesh: Display: OnRegister[/Game/ParagonRevenant/Characters/Heroes/Revenant/Skins/ChronoBoss/Meshes/Revenant_ChronoBoss.Revenant_ChronoBoss]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2024.02.14-09.07.41:775][305]LogSkeletalMesh: Display: OnRegister[/Game/ParagonRevenant/Characters/Heroes/Revenant/Skins/ChronoBoss/Meshes/Revenant_ChronoBoss.Revenant_ChronoBoss]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2024.02.14-09.07.41:899][305]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.02.14-09.07.41:900][305]LogScript: Warning: Script Msg called by: Revenant_AnimBlueprint_C /Engine/Transient.World_7:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.Revenant_AnimBlueprint_C_1
+[2024.02.14-09.07.41:900][305]LogAnimation: Error: AnimDynamics: Attempted to find bone chain starting at gun_handle_chain_back_03 and ending at gun_handle_chain_back_02 but failed.
+[2024.02.14-09.07.41:900][305]LogAnimation: Error: AnimDynamics: Attempted to find bone chain starting at gun_handle_chain_front_03 and ending at gun_handle_chain_front_02 but failed.
+[2024.02.14-09.07.41:903][305]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.02.14-09.07.41:903][305]LogScript: Warning: Script Msg called by: Revenant_AnimBlueprint_C /Engine/Transient.World_18:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.Revenant_AnimBlueprint_C_1
+[2024.02.14-09.07.41:903][305]LogAnimation: Error: AnimDynamics: Attempted to find bone chain starting at gun_handle_chain_back_03 and ending at gun_handle_chain_back_02 but failed.
+[2024.02.14-09.07.41:903][305]LogAnimation: Error: AnimDynamics: Attempted to find bone chain starting at gun_handle_chain_front_03 and ending at gun_handle_chain_front_02 but failed.
+[2024.02.14-09.07.41:905][305]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.02.14-09.07.41:905][305]LogScript: Warning: Script Msg called by: Revenant_AnimBlueprint_C /Engine/Transient.World_6:PersistentLevel.BP_ThirdPersonCharacter_C_17.CharacterMesh0.Revenant_AnimBlueprint_C_0
+[2024.02.14-09.07.41:905][305]LogAnimation: Error: AnimDynamics: Attempted to find bone chain starting at gun_handle_chain_back_03 and ending at gun_handle_chain_back_02 but failed.
+[2024.02.14-09.07.41:905][305]LogAnimation: Error: AnimDynamics: Attempted to find bone chain starting at gun_handle_chain_front_03 and ending at gun_handle_chain_front_02 but failed.
+[2024.02.14-09.07.42:516][350]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.14-09.07.42:610][350]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.02.14-09.07.42:611][350]LogSavePackage: Moving '../../../../../Python_Projekty/matfyz/ZS3/GE/Chaos_Royale/TopDown2DShooter/Saved/BP_ThirdPersonCharacterF94B1AFE4B342916A842A9B558672309.tmp' to '../../../../../Python_Projekty/matfyz/ZS3/GE/Chaos_Royale/TopDown2DShooter/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.02.14-09.07.42:619][350]LogFileHelpers: InternalPromptForCheckoutAndSave took 102 ms (total: 3.50 sec)
+[2024.02.14-09.07.42:627][350]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.02.14-09.07.42:627][350]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.02.14-09.07.44:699][533]BlueprintLog: New page: Compile NewHUD
+[2024.02.14-09.07.44:850][533]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.02.14-09.07.44:884][533]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.02.14-09.07.44:884][533]LogScript: Warning: Script Msg called by: Revenant_AnimBlueprint_C /Engine/Transient.World_7:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.Revenant_AnimBlueprint_C_1
+[2024.02.14-09.07.44:885][533]LogAnimation: Error: AnimDynamics: Attempted to find bone chain starting at gun_handle_chain_back_03 and ending at gun_handle_chain_back_02 but failed.
+[2024.02.14-09.07.44:885][533]LogAnimation: Error: AnimDynamics: Attempted to find bone chain starting at gun_handle_chain_front_03 and ending at gun_handle_chain_front_02 but failed.
+[2024.02.14-09.07.44:887][533]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.02.14-09.07.44:887][533]LogScript: Warning: Script Msg called by: Revenant_AnimBlueprint_C /Engine/Transient.World_18:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.Revenant_AnimBlueprint_C_1
+[2024.02.14-09.07.44:888][533]LogAnimation: Error: AnimDynamics: Attempted to find bone chain starting at gun_handle_chain_back_03 and ending at gun_handle_chain_back_02 but failed.
+[2024.02.14-09.07.44:888][533]LogAnimation: Error: AnimDynamics: Attempted to find bone chain starting at gun_handle_chain_front_03 and ending at gun_handle_chain_front_02 but failed.
+[2024.02.14-09.07.44:889][533]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.02.14-09.07.44:889][533]LogScript: Warning: Script Msg called by: Revenant_AnimBlueprint_C /Engine/Transient.World_6:PersistentLevel.BP_ThirdPersonCharacter_C_17.CharacterMesh0.Revenant_AnimBlueprint_C_0
+[2024.02.14-09.07.44:889][533]LogAnimation: Error: AnimDynamics: Attempted to find bone chain starting at gun_handle_chain_back_03 and ending at gun_handle_chain_back_02 but failed.
+[2024.02.14-09.07.44:889][533]LogAnimation: Error: AnimDynamics: Attempted to find bone chain starting at gun_handle_chain_front_03 and ending at gun_handle_chain_front_02 but failed.
+[2024.02.14-09.07.44:898][533]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.02.14-09.07.44:898][533]LogScript: Warning: Script Msg called by: Revenant_AnimBlueprint_C /Engine/Transient.World_7:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.Revenant_AnimBlueprint_C_1
+[2024.02.14-09.07.44:899][533]LogAnimation: Error: AnimDynamics: Attempted to find bone chain starting at gun_handle_chain_back_03 and ending at gun_handle_chain_back_02 but failed.
+[2024.02.14-09.07.44:899][533]LogAnimation: Error: AnimDynamics: Attempted to find bone chain starting at gun_handle_chain_front_03 and ending at gun_handle_chain_front_02 but failed.
+[2024.02.14-09.07.44:901][533]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.02.14-09.07.44:901][533]LogScript: Warning: Script Msg called by: Revenant_AnimBlueprint_C /Engine/Transient.World_18:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.Revenant_AnimBlueprint_C_1
+[2024.02.14-09.07.44:901][533]LogAnimation: Error: AnimDynamics: Attempted to find bone chain starting at gun_handle_chain_back_03 and ending at gun_handle_chain_back_02 but failed.
+[2024.02.14-09.07.44:901][533]LogAnimation: Error: AnimDynamics: Attempted to find bone chain starting at gun_handle_chain_front_03 and ending at gun_handle_chain_front_02 but failed.
+[2024.02.14-09.07.44:903][533]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.02.14-09.07.44:903][533]LogScript: Warning: Script Msg called by: Revenant_AnimBlueprint_C /Engine/Transient.World_6:PersistentLevel.BP_ThirdPersonCharacter_C_17.CharacterMesh0.Revenant_AnimBlueprint_C_0
+[2024.02.14-09.07.44:903][533]LogAnimation: Error: AnimDynamics: Attempted to find bone chain starting at gun_handle_chain_back_03 and ending at gun_handle_chain_back_02 but failed.
+[2024.02.14-09.07.44:903][533]LogAnimation: Error: AnimDynamics: Attempted to find bone chain starting at gun_handle_chain_front_03 and ending at gun_handle_chain_front_02 but failed.
+[2024.02.14-09.07.45:683][595]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.14-09.07.45:714][595]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/NewHUD" FILE="../../../../../Python_Projekty/matfyz/ZS3/GE/Chaos_Royale/TopDown2DShooter/Content/HUD/NewHUD.uasset" SILENT=true
+[2024.02.14-09.07.45:727][595]LogSavePackage: Moving output files for package: /Game/HUD/NewHUD
+[2024.02.14-09.07.45:728][595]LogSavePackage: Moving '../../../../../Python_Projekty/matfyz/ZS3/GE/Chaos_Royale/TopDown2DShooter/Saved/NewHUD7A4C50D64E61C73FB271B28E92981A15.tmp' to '../../../../../Python_Projekty/matfyz/ZS3/GE/Chaos_Royale/TopDown2DShooter/Content/HUD/NewHUD.uasset'
+[2024.02.14-09.07.45:738][595]LogFileHelpers: InternalPromptForCheckoutAndSave took 55 ms (total: 3.55 sec)
+[2024.02.14-09.07.45:745][595]AssetCheck: New page: Asset Save: NewHUD
+[2024.02.14-09.07.45:746][595]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/HUD/NewHUD.NewHUD
+[2024.02.14-09.07.49:135][889]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.14-09.07.49:145][889]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.14-09.07.49:145][889]PIE: New page: PIE session: Level_01 (Feb 14, 2024, 11:07:49 AM)
+[2024.02.14-09.07.49:166][889]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_01
+[2024.02.14-09.07.49:205][889]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039545s)
+[2024.02.14-09.07.49:205][889]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_01.Level_01 to /Game/Maps/UEDPIE_0_Level_01.Level_01 (0.039601s)
+[2024.02.14-09.07.49:206][889]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.14-09.07.49:206][889]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.14-09.07.49:206][889]LogAIModule: Creating AISystem for world Level_01
+[2024.02.14-09.07.49:207][889]LogPlayLevel: PIE: World Init took: (0.001322s)
+[2024.02.14-09.07.49:237][889]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2024.02.14-09.07.49:244][889]LogAudio: Display: Creating Audio Device:                 Id: 48, Scope: Unique, Realtime: True
+[2024.02.14-09.07.49:244][889]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.14-09.07.49:244][889]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.14-09.07.49:244][889]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.14-09.07.49:244][889]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.14-09.07.49:244][889]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.14-09.07.49:244][889]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.14-09.07.49:244][889]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.14-09.07.49:244][889]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.14-09.07.49:245][889]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.14-09.07.49:245][889]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.14-09.07.49:245][889]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.14-09.07.49:248][889]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.14-09.07.49:279][889]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Razer Nari Ultimate - Game)
+[2024.02.14-09.07.49:279][889]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.14-09.07.49:279][889]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.14-09.07.49:279][889]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.14-09.07.49:280][889]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=48
+[2024.02.14-09.07.49:280][889]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=48
+[2024.02.14-09.07.49:283][889]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=48
+[2024.02.14-09.07.49:283][889]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=48
+[2024.02.14-09.07.49:283][889]LogInit: FAudioDevice initialized with ID 48.
+[2024.02.14-09.07.49:283][889]LogAudio: Display: Audio Device (ID: 48) registered with world 'Level_01'.
+[2024.02.14-09.07.49:283][889]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 48
+[2024.02.14-09.07.49:287][889]LogLoad: Game class is 'MutiplayerGameMode_C'
+[2024.02.14-09.07.49:315][889]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2024.02.14-10.07.49
+[2024.02.14-09.07.49:316][889]LogWorld: Bringing up level for play took: 0.028604
+[2024.02.14-09.07.49:318][889]LogOnline: OSS: Created online subsystem instance for: :Context_79
+[2024.02.14-09.07.49:319][889]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2024.02.14-09.07.49:319][889]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2024.02.14-09.07.49:319][889]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2024.02.14-09.07.49:319][889]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2024.02.14-09.07.49:320][889]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.02.14-09.07.49:320][889]LogNet: GameNetDriver IpNetDriver_46 IpNetDriver listening on port 17777
+[2024.02.14-09.07.49:320][889]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for PlatformUserId 0,
+[2024.02.14-09.07.49:321][889]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.02.14-09.07.49:321][889]LogScript: Warning: Script Msg called by: Revenant_AnimBlueprint_C /Game/Maps/UEDPIE_0_Level_01.Level_01:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.Revenant_AnimBlueprint_C_0
+[2024.02.14-09.07.49:321][889]LogAnimation: Error: AnimDynamics: Attempted to find bone chain starting at gun_handle_chain_back_03 and ending at gun_handle_chain_back_02 but failed.
+[2024.02.14-09.07.49:321][889]LogAnimation: Error: AnimDynamics: Attempted to find bone chain starting at gun_handle_chain_front_03 and ending at gun_handle_chain_front_02 but failed.
+[2024.02.14-09.07.49:321][889]LogSkeletalMesh: Display: OnRegister[/Game/ParagonRevenant/Characters/Heroes/Revenant/Skins/ChronoBoss/Meshes/Revenant_ChronoBoss.Revenant_ChronoBoss]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2024.02.14-09.07.49:321][889]LogSkeletalMesh: Display: OnRegister[/Game/ParagonRevenant/Characters/Heroes/Revenant/Skins/ChronoBoss/Meshes/Revenant_ChronoBoss.Revenant_ChronoBoss]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2024.02.14-09.07.49:333][889]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.02.14-09.07.49:333][889]LogScript: Warning: Script Msg called by: Revenant_AnimBlueprint_C /Game/Maps/UEDPIE_0_Level_01.Level_01:PersistentLevel.BP_ThirdPersonCharacter_C_1.CharacterMesh0.Revenant_AnimBlueprint_C_0
+[2024.02.14-09.07.49:333][889]LogAnimation: Error: AnimDynamics: Attempted to find bone chain starting at gun_handle_chain_back_03 and ending at gun_handle_chain_back_02 but failed.
+[2024.02.14-09.07.49:333][889]LogAnimation: Error: AnimDynamics: Attempted to find bone chain starting at gun_handle_chain_front_03 and ending at gun_handle_chain_front_02 but failed.
+[2024.02.14-09.07.49:334][889]LogSkeletalMesh: Display: OnRegister[/Game/ParagonRevenant/Characters/Heroes/Revenant/Skins/ChronoBoss/Meshes/Revenant_ChronoBoss.Revenant_ChronoBoss]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2024.02.14-09.07.49:334][889]LogSkeletalMesh: Display: OnRegister[/Game/ParagonRevenant/Characters/Heroes/Revenant/Skins/ChronoBoss/Meshes/Revenant_ChronoBoss.Revenant_ChronoBoss]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2024.02.14-09.07.49:340][889]PIE: Server logged in
+[2024.02.14-09.07.49:340][889]PIE: Play in editor total start time 0.196 seconds.
+[2024.02.14-09.07.49:435][889]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.07.49:436][889]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.07.49:436][889]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.07.49:436][889]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.07.49:437][889]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.07.49:437][889]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.07.49:438][889]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.07.49:439][889]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.07.49:439][889]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.07.49:439][889]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.07.49:440][889]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.07.49:440][889]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.07.49:443][889]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.07.49:443][889]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.07.51:485][ 93]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonRevenant/Characters/Heroes/Revenant/Animations/LevelStart_Montage.LevelStart_Montage'
+[2024.02.14-09.07.51:485][ 93]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonRevenant/Characters/Heroes/Revenant/Animations/LevelStart_Montage.LevelStart_Montage'
+[2024.02.14-09.07.57:872][788]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_1] Server: Player: 1
+[2024.02.14-09.07.57:872][788]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_1] Server: Health: 100.0
+[2024.02.14-09.07.57:872][788]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_1] Server: Dmg: 34.0
+[2024.02.14-09.07.57:872][788]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_1] Server: Deaths: 0
+[2024.02.14-09.07.58:661][875]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_1] Server: Player: 1
+[2024.02.14-09.07.58:661][875]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_1] Server: Health: 66.0
+[2024.02.14-09.07.58:661][875]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_1] Server: Dmg: 34.0
+[2024.02.14-09.07.58:661][875]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_1] Server: Deaths: 0
+[2024.02.14-09.07.59:141][928]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_1] Server: Player: 1
+[2024.02.14-09.07.59:141][928]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_1] Server: Health: 32.0
+[2024.02.14-09.07.59:141][928]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_1] Server: Dmg: 34.0
+[2024.02.14-09.07.59:141][928]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_1] Server: Deaths: 0
+[2024.02.14-09.08.06:517][726]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_1] Server: Player: 1
+[2024.02.14-09.08.06:517][726]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_1] Server: Health: 200.0
+[2024.02.14-09.08.06:517][726]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_1] Server: Dmg: 34.0
+[2024.02.14-09.08.06:517][726]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_1] Server: Deaths: 1
+[2024.02.14-09.08.07:137][794]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_1] Server: Player: 1
+[2024.02.14-09.08.07:137][794]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_1] Server: Health: 166.0
+[2024.02.14-09.08.07:137][794]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_1] Server: Dmg: 34.0
+[2024.02.14-09.08.07:137][794]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_1] Server: Deaths: 1
+[2024.02.14-09.08.08:951][988]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_1] Server: Player: 1
+[2024.02.14-09.08.08:951][988]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_1] Server: Health: 132.0
+[2024.02.14-09.08.08:951][988]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_1] Server: Dmg: 34.0
+[2024.02.14-09.08.08:951][988]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_1] Server: Deaths: 1
+[2024.02.14-09.08.09:300][ 26]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_1] Server: Player: 1
+[2024.02.14-09.08.09:300][ 26]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_1] Server: Health: 98.0
+[2024.02.14-09.08.09:300][ 26]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_1] Server: Dmg: 100.0
+[2024.02.14-09.08.09:300][ 26]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_1] Server: Deaths: 1
+[2024.02.14-09.08.09:643][ 63]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_1] Server: Player: 1
+[2024.02.14-09.08.09:643][ 63]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_1] Server: Health: 64.0
+[2024.02.14-09.08.09:644][ 63]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_1] Server: Dmg: 100.0
+[2024.02.14-09.08.09:644][ 63]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_1] Server: Deaths: 1
+[2024.02.14-09.08.10:116][115]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_1] Server: Player: 1
+[2024.02.14-09.08.10:117][115]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_1] Server: Health: 30.0
+[2024.02.14-09.08.10:117][115]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_1] Server: Dmg: 100.0
+[2024.02.14-09.08.10:117][115]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_1] Server: Deaths: 1
+[2024.02.14-09.08.16:521][806]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_1] Server: Player: 1
+[2024.02.14-09.08.16:521][806]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_1] Server: Health: 100.0
+[2024.02.14-09.08.16:521][806]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_1] Server: Dmg: 34.0
+[2024.02.14-09.08.16:521][806]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_1] Server: Deaths: 2
+[2024.02.14-09.08.17:081][868]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_1] Server: Player: 1
+[2024.02.14-09.08.17:081][868]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_1] Server: Health: 66.0
+[2024.02.14-09.08.17:081][868]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_1] Server: Dmg: 34.0
+[2024.02.14-09.08.17:081][868]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_1] Server: Deaths: 2
+[2024.02.14-09.08.17:386][902]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_1] Server: Player: 1
+[2024.02.14-09.08.17:386][902]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_1] Server: Health: 32.0
+[2024.02.14-09.08.17:386][902]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_1] Server: Dmg: 34.0
+[2024.02.14-09.08.17:386][902]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_1] Server: Deaths: 2
+[2024.02.14-09.08.26:129][851]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.14-09.08.26:129][851]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level_01
+[2024.02.14-09.08.26:129][851]LogWorld: UWorld::CleanupWorld for Level_01, bSessionEnded=true, bCleanupResources=true
+[2024.02.14-09.08.26:133][851]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.14-09.08.26:135][851]LogNet: World NetDriver shutdown IpNetDriver_46 [GameNetDriver]
+[2024.02.14-09.08.26:135][851]LogNet: DestroyNamedNetDriver IpNetDriver_46 [GameNetDriver]
+[2024.02.14-09.08.26:135][851]LogExit: GameNetDriver IpNetDriver_46 shut down
+[2024.02.14-09.08.26:138][851]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.14-09.08.26:144][851]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.14-09.08.26:175][851]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.14-09.08.26:175][851]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 48
+[2024.02.14-09.08.26:175][851]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=48
+[2024.02.14-09.08.26:177][851]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=48
+[2024.02.14-09.08.26:182][851]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.14-09.08.26:192][851]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2024.02.14-09.08.26:240][851]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.08.26:240][851]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.08.26:241][851]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.08.26:241][851]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.08.26:241][851]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.08.26:242][851]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.08.26:242][851]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.08.26:243][851]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.08.26:243][851]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.08.26:243][851]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.08.26:244][851]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.08.26:244][851]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.08.26:246][851]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.08.26:247][851]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.08.26:258][852]LogPlayLevel: Display: Destroying online subsystem :Context_79
+[2024.02.14-09.08.26:518][871]Cmd: SELECT NONE
+[2024.02.14-09.09.14:172][763]BlueprintLog: New page: Compile MutiplayerGameMode
+[2024.02.14-09.09.14:234][763]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.02.14-09.09.14:243][763]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.02.14-09.09.14:243][763]LogScript: Warning: Script Msg called by: Revenant_AnimBlueprint_C /Engine/Transient.World_7:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.Revenant_AnimBlueprint_C_1
+[2024.02.14-09.09.14:243][763]LogAnimation: Error: AnimDynamics: Attempted to find bone chain starting at gun_handle_chain_back_03 and ending at gun_handle_chain_back_02 but failed.
+[2024.02.14-09.09.14:243][763]LogAnimation: Error: AnimDynamics: Attempted to find bone chain starting at gun_handle_chain_front_03 and ending at gun_handle_chain_front_02 but failed.
+[2024.02.14-09.09.14:245][763]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.02.14-09.09.14:245][763]LogScript: Warning: Script Msg called by: Revenant_AnimBlueprint_C /Engine/Transient.World_18:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.Revenant_AnimBlueprint_C_1
+[2024.02.14-09.09.14:246][763]LogAnimation: Error: AnimDynamics: Attempted to find bone chain starting at gun_handle_chain_back_03 and ending at gun_handle_chain_back_02 but failed.
+[2024.02.14-09.09.14:246][763]LogAnimation: Error: AnimDynamics: Attempted to find bone chain starting at gun_handle_chain_front_03 and ending at gun_handle_chain_front_02 but failed.
+[2024.02.14-09.09.14:247][763]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.02.14-09.09.14:247][763]LogScript: Warning: Script Msg called by: Revenant_AnimBlueprint_C /Engine/Transient.World_6:PersistentLevel.BP_ThirdPersonCharacter_C_17.CharacterMesh0.Revenant_AnimBlueprint_C_0
+[2024.02.14-09.09.14:247][763]LogAnimation: Error: AnimDynamics: Attempted to find bone chain starting at gun_handle_chain_back_03 and ending at gun_handle_chain_back_02 but failed.
+[2024.02.14-09.09.14:247][763]LogAnimation: Error: AnimDynamics: Attempted to find bone chain starting at gun_handle_chain_front_03 and ending at gun_handle_chain_front_02 but failed.
+[2024.02.14-09.09.14:290][763]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.02.14-09.09.14:290][763]LogScript: Warning: Script Msg called by: Revenant_AnimBlueprint_C /Engine/Transient.World_7:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.Revenant_AnimBlueprint_C_1
+[2024.02.14-09.09.14:290][763]LogAnimation: Error: AnimDynamics: Attempted to find bone chain starting at gun_handle_chain_back_03 and ending at gun_handle_chain_back_02 but failed.
+[2024.02.14-09.09.14:290][763]LogAnimation: Error: AnimDynamics: Attempted to find bone chain starting at gun_handle_chain_front_03 and ending at gun_handle_chain_front_02 but failed.
+[2024.02.14-09.09.14:292][763]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.02.14-09.09.14:292][763]LogScript: Warning: Script Msg called by: Revenant_AnimBlueprint_C /Engine/Transient.World_18:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.Revenant_AnimBlueprint_C_1
+[2024.02.14-09.09.14:292][763]LogAnimation: Error: AnimDynamics: Attempted to find bone chain starting at gun_handle_chain_back_03 and ending at gun_handle_chain_back_02 but failed.
+[2024.02.14-09.09.14:293][763]LogAnimation: Error: AnimDynamics: Attempted to find bone chain starting at gun_handle_chain_front_03 and ending at gun_handle_chain_front_02 but failed.
+[2024.02.14-09.09.14:294][763]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.02.14-09.09.14:294][763]LogScript: Warning: Script Msg called by: Revenant_AnimBlueprint_C /Engine/Transient.World_6:PersistentLevel.BP_ThirdPersonCharacter_C_17.CharacterMesh0.Revenant_AnimBlueprint_C_0
+[2024.02.14-09.09.14:294][763]LogAnimation: Error: AnimDynamics: Attempted to find bone chain starting at gun_handle_chain_back_03 and ending at gun_handle_chain_back_02 but failed.
+[2024.02.14-09.09.14:294][763]LogAnimation: Error: AnimDynamics: Attempted to find bone chain starting at gun_handle_chain_front_03 and ending at gun_handle_chain_front_02 but failed.
+[2024.02.14-09.09.14:820][804]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.14-09.09.14:876][804]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/MutiplayerGameMode
+[2024.02.14-09.09.14:877][804]LogSavePackage: Moving '../../../../../Python_Projekty/matfyz/ZS3/GE/Chaos_Royale/TopDown2DShooter/Saved/MutiplayerGameModeBAF61F2F4EB6B7ED3D855FA705754212.tmp' to '../../../../../Python_Projekty/matfyz/ZS3/GE/Chaos_Royale/TopDown2DShooter/Content/ThirdPerson/Blueprints/MutiplayerGameMode.uasset'
+[2024.02.14-09.09.14:886][804]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 3.62 sec)
+[2024.02.14-09.09.14:894][804]AssetCheck: New page: Asset Save: MutiplayerGameMode
+[2024.02.14-09.09.14:894][804]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/MutiplayerGameMode.MutiplayerGameMode
+[2024.02.14-09.09.24:399][791]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.14-09.09.24:409][791]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.14-09.09.24:410][791]PIE: New page: PIE session: Level_01 (Feb 14, 2024, 11:09:24 AM)
+[2024.02.14-09.09.24:450][791]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_01
+[2024.02.14-09.09.24:484][791]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034438s)
+[2024.02.14-09.09.24:485][791]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_01.Level_01 to /Game/Maps/UEDPIE_0_Level_01.Level_01 (0.034499s)
+[2024.02.14-09.09.24:485][791]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.14-09.09.24:485][791]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.14-09.09.24:485][791]LogAIModule: Creating AISystem for world Level_01
+[2024.02.14-09.09.24:485][791]LogPlayLevel: PIE: World Init took: (0.000979s)
+[2024.02.14-09.09.24:514][791]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.02.14-09.09.24:520][791]LogAudio: Display: Creating Audio Device:                 Id: 49, Scope: Unique, Realtime: True
+[2024.02.14-09.09.24:521][791]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.14-09.09.24:521][791]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.14-09.09.24:521][791]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.14-09.09.24:521][791]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.14-09.09.24:521][791]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.14-09.09.24:521][791]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.14-09.09.24:521][791]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.14-09.09.24:521][791]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.14-09.09.24:521][791]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.14-09.09.24:521][791]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.14-09.09.24:521][791]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.14-09.09.24:523][791]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.14-09.09.24:554][791]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Razer Nari Ultimate - Game)
+[2024.02.14-09.09.24:554][791]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.14-09.09.24:554][791]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.14-09.09.24:554][791]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.14-09.09.24:555][791]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=49
+[2024.02.14-09.09.24:555][791]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=49
+[2024.02.14-09.09.24:557][791]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=49
+[2024.02.14-09.09.24:557][791]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=49
+[2024.02.14-09.09.24:557][791]LogInit: FAudioDevice initialized with ID 49.
+[2024.02.14-09.09.24:557][791]LogAudio: Display: Audio Device (ID: 49) registered with world 'Level_01'.
+[2024.02.14-09.09.24:557][791]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 49
+[2024.02.14-09.09.24:561][791]LogLoad: Game class is 'MutiplayerGameMode_C'
+[2024.02.14-09.09.24:588][791]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2024.02.14-10.09.24
+[2024.02.14-09.09.24:589][791]LogWorld: Bringing up level for play took: 0.027365
+[2024.02.14-09.09.24:591][791]LogOnline: OSS: Created online subsystem instance for: :Context_80
+[2024.02.14-09.09.24:592][791]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2024.02.14-09.09.24:592][791]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2024.02.14-09.09.24:592][791]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2024.02.14-09.09.24:592][791]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2024.02.14-09.09.24:592][791]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.02.14-09.09.24:592][791]LogNet: GameNetDriver IpNetDriver_47 IpNetDriver listening on port 17777
+[2024.02.14-09.09.24:593][791]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for PlatformUserId 0,
+[2024.02.14-09.09.24:594][791]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.02.14-09.09.24:594][791]LogScript: Warning: Script Msg called by: Revenant_AnimBlueprint_C /Game/Maps/UEDPIE_0_Level_01.Level_01:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.Revenant_AnimBlueprint_C_0
+[2024.02.14-09.09.24:594][791]LogAnimation: Error: AnimDynamics: Attempted to find bone chain starting at gun_handle_chain_back_03 and ending at gun_handle_chain_back_02 but failed.
+[2024.02.14-09.09.24:594][791]LogAnimation: Error: AnimDynamics: Attempted to find bone chain starting at gun_handle_chain_front_03 and ending at gun_handle_chain_front_02 but failed.
+[2024.02.14-09.09.24:594][791]LogSkeletalMesh: Display: OnRegister[/Game/ParagonRevenant/Characters/Heroes/Revenant/Skins/ChronoBoss/Meshes/Revenant_ChronoBoss.Revenant_ChronoBoss]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2024.02.14-09.09.24:594][791]LogSkeletalMesh: Display: OnRegister[/Game/ParagonRevenant/Characters/Heroes/Revenant/Skins/ChronoBoss/Meshes/Revenant_ChronoBoss.Revenant_ChronoBoss]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2024.02.14-09.09.24:605][791]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.02.14-09.09.24:605][791]LogScript: Warning: Script Msg called by: Revenant_AnimBlueprint_C /Game/Maps/UEDPIE_0_Level_01.Level_01:PersistentLevel.BP_ThirdPersonCharacter_C_1.CharacterMesh0.Revenant_AnimBlueprint_C_0
+[2024.02.14-09.09.24:606][791]LogAnimation: Error: AnimDynamics: Attempted to find bone chain starting at gun_handle_chain_back_03 and ending at gun_handle_chain_back_02 but failed.
+[2024.02.14-09.09.24:606][791]LogAnimation: Error: AnimDynamics: Attempted to find bone chain starting at gun_handle_chain_front_03 and ending at gun_handle_chain_front_02 but failed.
+[2024.02.14-09.09.24:606][791]LogSkeletalMesh: Display: OnRegister[/Game/ParagonRevenant/Characters/Heroes/Revenant/Skins/ChronoBoss/Meshes/Revenant_ChronoBoss.Revenant_ChronoBoss]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2024.02.14-09.09.24:606][791]LogSkeletalMesh: Display: OnRegister[/Game/ParagonRevenant/Characters/Heroes/Revenant/Skins/ChronoBoss/Meshes/Revenant_ChronoBoss.Revenant_ChronoBoss]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2024.02.14-09.09.24:611][791]PIE: Server logged in
+[2024.02.14-09.09.24:612][791]PIE: Play in editor total start time 0.202 seconds.
+[2024.02.14-09.09.24:698][791]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.09.24:699][791]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.09.24:699][791]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.09.24:700][791]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.09.24:700][791]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.09.24:701][791]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.09.24:701][791]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.09.24:702][791]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.09.24:703][791]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.09.24:703][791]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.09.24:704][791]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.09.24:704][791]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.09.24:708][791]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.09.24:708][791]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.09.26:751][  3]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonRevenant/Characters/Heroes/Revenant/Animations/LevelStart_Montage.LevelStart_Montage'
+[2024.02.14-09.09.26:751][  3]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonRevenant/Characters/Heroes/Revenant/Animations/LevelStart_Montage.LevelStart_Montage'
+[2024.02.14-09.09.37:353][145]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Server: Player: 0
+[2024.02.14-09.09.37:353][145]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Server: Health: 100.0
+[2024.02.14-09.09.37:353][145]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Server: Dmg: 34.0
+[2024.02.14-09.09.37:353][145]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Server: Deaths: 0
+[2024.02.14-09.09.37:531][164]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Server: Player: 0
+[2024.02.14-09.09.37:531][164]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Server: Health: 66.0
+[2024.02.14-09.09.37:531][164]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Server: Dmg: 34.0
+[2024.02.14-09.09.37:531][164]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Server: Deaths: 0
+[2024.02.14-09.09.37:664][178]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Server: Player: 0
+[2024.02.14-09.09.37:665][178]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Server: Health: 32.0
+[2024.02.14-09.09.37:665][178]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Server: Dmg: 34.0
+[2024.02.14-09.09.37:665][178]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Server: Deaths: 0
+[2024.02.14-09.09.41:006][532]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Server: Player: 0
+[2024.02.14-09.09.41:006][532]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Server: Health: 100.0
+[2024.02.14-09.09.41:006][532]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Server: Dmg: 34.0
+[2024.02.14-09.09.41:006][532]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Server: Deaths: 1
+[2024.02.14-09.09.42:094][647]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Server: Player: 0
+[2024.02.14-09.09.42:094][647]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Server: Health: 66.0
+[2024.02.14-09.09.42:094][647]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Server: Dmg: 34.0
+[2024.02.14-09.09.42:094][647]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Server: Deaths: 1
+[2024.02.14-09.09.47:036][184]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Server: Player: 0
+[2024.02.14-09.09.47:036][184]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Server: Health: 100.0
+[2024.02.14-09.09.47:036][184]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Server: Dmg: 34.0
+[2024.02.14-09.09.47:036][184]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Server: Deaths: 2
+[2024.02.14-09.09.51:293][636]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Server: Player: 0
+[2024.02.14-09.09.51:293][636]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Server: Health: 100.0
+[2024.02.14-09.09.51:294][636]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Server: Dmg: 34.0
+[2024.02.14-09.09.51:294][636]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Server: Deaths: 3
+[2024.02.14-09.10.01:333][727]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.14-09.10.01:333][727]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level_01
+[2024.02.14-09.10.01:333][727]LogWorld: UWorld::CleanupWorld for Level_01, bSessionEnded=true, bCleanupResources=true
+[2024.02.14-09.10.01:337][727]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.14-09.10.01:340][727]LogNet: World NetDriver shutdown IpNetDriver_47 [GameNetDriver]
+[2024.02.14-09.10.01:340][727]LogNet: DestroyNamedNetDriver IpNetDriver_47 [GameNetDriver]
+[2024.02.14-09.10.01:340][727]LogExit: GameNetDriver IpNetDriver_47 shut down
+[2024.02.14-09.10.01:342][727]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.14-09.10.01:349][727]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.14-09.10.01:378][727]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.14-09.10.01:379][727]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 49
+[2024.02.14-09.10.01:379][727]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=49
+[2024.02.14-09.10.01:381][727]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=49
+[2024.02.14-09.10.01:384][727]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.14-09.10.01:394][727]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2024.02.14-09.10.01:442][727]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.10.01:443][727]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.10.01:443][727]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.10.01:444][727]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.10.01:444][727]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.10.01:444][727]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.10.01:445][727]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.10.01:445][727]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.10.01:446][727]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.10.01:446][727]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.10.01:446][727]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.10.01:447][727]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.10.01:449][727]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.10.01:449][727]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.10.01:452][728]LogPlayLevel: Display: Destroying online subsystem :Context_80
+[2024.02.14-09.10.22:896][807]LogDerivedDataCache: C:/Users/Správca/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:10.132 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 5259 files in 6950 folders with total size 1137 MiB.
+[2024.02.14-09.11.31:626][928]BlueprintLog: New page: Compile Vylepsenia
+[2024.02.14-09.11.31:707][928]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.02.14-09.11.32:926][ 57]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.14-09.11.32:977][ 57]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Vylepsenia
+[2024.02.14-09.11.32:978][ 57]LogSavePackage: Moving '../../../../../Python_Projekty/matfyz/ZS3/GE/Chaos_Royale/TopDown2DShooter/Saved/VylepseniaBA6DFACB4810CC59CDBD88BEAC69C58C.tmp' to '../../../../../Python_Projekty/matfyz/ZS3/GE/Chaos_Royale/TopDown2DShooter/Content/ThirdPerson/Blueprints/Vylepsenia.uasset'
+[2024.02.14-09.11.32:989][ 57]LogFileHelpers: InternalPromptForCheckoutAndSave took 62 ms (total: 3.68 sec)
+[2024.02.14-09.11.32:998][ 57]AssetCheck: New page: Asset Save: Vylepsenia
+[2024.02.14-09.11.32:998][ 57]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/Vylepsenia.Vylepsenia
+[2024.02.14-09.11.35:002][277]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.14-09.11.35:012][277]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.14-09.11.35:013][277]PIE: New page: PIE session: Level_01 (Feb 14, 2024, 11:11:35 AM)
+[2024.02.14-09.11.35:036][277]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_01
+[2024.02.14-09.11.35:070][277]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033755s)
+[2024.02.14-09.11.35:070][277]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_01.Level_01 to /Game/Maps/UEDPIE_0_Level_01.Level_01 (0.033813s)
+[2024.02.14-09.11.35:070][277]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.14-09.11.35:070][277]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.14-09.11.35:071][277]LogAIModule: Creating AISystem for world Level_01
+[2024.02.14-09.11.35:071][277]LogPlayLevel: PIE: World Init took: (0.001197s)
+[2024.02.14-09.11.35:099][277]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.02.14-09.11.35:105][277]LogAudio: Display: Creating Audio Device:                 Id: 50, Scope: Unique, Realtime: True
+[2024.02.14-09.11.35:105][277]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.14-09.11.35:105][277]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.14-09.11.35:105][277]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.14-09.11.35:105][277]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.14-09.11.35:105][277]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.14-09.11.35:105][277]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.14-09.11.35:105][277]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.14-09.11.35:105][277]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.14-09.11.35:105][277]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.14-09.11.35:105][277]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.14-09.11.35:105][277]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.14-09.11.35:108][277]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.14-09.11.35:140][277]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Razer Nari Ultimate - Game)
+[2024.02.14-09.11.35:140][277]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.14-09.11.35:140][277]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.14-09.11.35:140][277]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.14-09.11.35:141][277]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=50
+[2024.02.14-09.11.35:141][277]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=50
+[2024.02.14-09.11.35:143][277]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=50
+[2024.02.14-09.11.35:143][277]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=50
+[2024.02.14-09.11.35:143][277]LogInit: FAudioDevice initialized with ID 50.
+[2024.02.14-09.11.35:143][277]LogAudio: Display: Audio Device (ID: 50) registered with world 'Level_01'.
+[2024.02.14-09.11.35:143][277]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 50
+[2024.02.14-09.11.35:146][277]LogLoad: Game class is 'MutiplayerGameMode_C'
+[2024.02.14-09.11.35:175][277]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2024.02.14-10.11.35
+[2024.02.14-09.11.35:175][277]LogWorld: Bringing up level for play took: 0.028682
+[2024.02.14-09.11.35:177][277]LogOnline: OSS: Created online subsystem instance for: :Context_81
+[2024.02.14-09.11.35:178][277]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2024.02.14-09.11.35:178][277]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2024.02.14-09.11.35:178][277]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2024.02.14-09.11.35:178][277]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2024.02.14-09.11.35:178][277]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.02.14-09.11.35:178][277]LogNet: GameNetDriver IpNetDriver_48 IpNetDriver listening on port 17777
+[2024.02.14-09.11.35:179][277]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for PlatformUserId 0,
+[2024.02.14-09.11.35:180][277]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.02.14-09.11.35:180][277]LogScript: Warning: Script Msg called by: Revenant_AnimBlueprint_C /Game/Maps/UEDPIE_0_Level_01.Level_01:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.Revenant_AnimBlueprint_C_0
+[2024.02.14-09.11.35:180][277]LogAnimation: Error: AnimDynamics: Attempted to find bone chain starting at gun_handle_chain_back_03 and ending at gun_handle_chain_back_02 but failed.
+[2024.02.14-09.11.35:180][277]LogAnimation: Error: AnimDynamics: Attempted to find bone chain starting at gun_handle_chain_front_03 and ending at gun_handle_chain_front_02 but failed.
+[2024.02.14-09.11.35:180][277]LogSkeletalMesh: Display: OnRegister[/Game/ParagonRevenant/Characters/Heroes/Revenant/Skins/ChronoBoss/Meshes/Revenant_ChronoBoss.Revenant_ChronoBoss]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2024.02.14-09.11.35:180][277]LogSkeletalMesh: Display: OnRegister[/Game/ParagonRevenant/Characters/Heroes/Revenant/Skins/ChronoBoss/Meshes/Revenant_ChronoBoss.Revenant_ChronoBoss]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2024.02.14-09.11.35:193][277]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.02.14-09.11.35:193][277]LogScript: Warning: Script Msg called by: Revenant_AnimBlueprint_C /Game/Maps/UEDPIE_0_Level_01.Level_01:PersistentLevel.BP_ThirdPersonCharacter_C_1.CharacterMesh0.Revenant_AnimBlueprint_C_0
+[2024.02.14-09.11.35:194][277]LogAnimation: Error: AnimDynamics: Attempted to find bone chain starting at gun_handle_chain_back_03 and ending at gun_handle_chain_back_02 but failed.
+[2024.02.14-09.11.35:194][277]LogAnimation: Error: AnimDynamics: Attempted to find bone chain starting at gun_handle_chain_front_03 and ending at gun_handle_chain_front_02 but failed.
+[2024.02.14-09.11.35:194][277]LogSkeletalMesh: Display: OnRegister[/Game/ParagonRevenant/Characters/Heroes/Revenant/Skins/ChronoBoss/Meshes/Revenant_ChronoBoss.Revenant_ChronoBoss]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2024.02.14-09.11.35:194][277]LogSkeletalMesh: Display: OnRegister[/Game/ParagonRevenant/Characters/Heroes/Revenant/Skins/ChronoBoss/Meshes/Revenant_ChronoBoss.Revenant_ChronoBoss]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2024.02.14-09.11.35:199][277]PIE: Server logged in
+[2024.02.14-09.11.35:200][277]PIE: Play in editor total start time 0.188 seconds.
+[2024.02.14-09.11.35:288][277]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.11.35:289][277]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.11.35:290][277]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.11.35:290][277]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.11.35:291][277]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.11.35:291][277]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.11.35:292][277]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.11.35:292][277]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.11.35:293][277]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.11.35:293][277]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.11.35:293][277]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.11.35:294][277]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.11.35:298][277]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.11.35:299][277]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.11.37:355][513]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonRevenant/Characters/Heroes/Revenant/Animations/LevelStart_Montage.LevelStart_Montage'
+[2024.02.14-09.11.37:355][513]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonRevenant/Characters/Heroes/Revenant/Animations/LevelStart_Montage.LevelStart_Montage'
+[2024.02.14-09.11.45:039][370]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.14-09.11.45:039][370]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level_01
+[2024.02.14-09.11.45:039][370]LogWorld: UWorld::CleanupWorld for Level_01, bSessionEnded=true, bCleanupResources=true
+[2024.02.14-09.11.45:042][370]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.14-09.11.45:044][370]LogNet: World NetDriver shutdown IpNetDriver_48 [GameNetDriver]
+[2024.02.14-09.11.45:044][370]LogNet: DestroyNamedNetDriver IpNetDriver_48 [GameNetDriver]
+[2024.02.14-09.11.45:044][370]LogExit: GameNetDriver IpNetDriver_48 shut down
+[2024.02.14-09.11.45:046][370]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.14-09.11.45:053][370]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.14-09.11.45:082][370]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.14-09.11.45:082][370]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 50
+[2024.02.14-09.11.45:082][370]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=50
+[2024.02.14-09.11.45:084][370]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=50
+[2024.02.14-09.11.45:097][370]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.14-09.11.45:105][370]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.02.14-09.11.45:148][370]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.11.45:149][370]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.11.45:149][370]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.11.45:150][370]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.11.45:150][370]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.11.45:150][370]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.11.45:151][370]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.11.45:152][370]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.11.45:152][370]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.11.45:152][370]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.11.45:153][370]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.11.45:153][370]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.11.45:156][370]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.11.45:156][370]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.11.45:159][371]LogPlayLevel: Display: Destroying online subsystem :Context_81
+[2024.02.14-09.11.59:216][941]BlueprintLog: New page: Compile MutiplayerGameMode
+[2024.02.14-09.11.59:275][941]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2024.02.14-09.11.59:280][941]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.02.14-09.11.59:280][941]LogScript: Warning: Script Msg called by: Revenant_AnimBlueprint_C /Engine/Transient.World_7:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.Revenant_AnimBlueprint_C_1
+[2024.02.14-09.11.59:281][941]LogAnimation: Error: AnimDynamics: Attempted to find bone chain starting at gun_handle_chain_back_03 and ending at gun_handle_chain_back_02 but failed.
+[2024.02.14-09.11.59:281][941]LogAnimation: Error: AnimDynamics: Attempted to find bone chain starting at gun_handle_chain_front_03 and ending at gun_handle_chain_front_02 but failed.
+[2024.02.14-09.11.59:283][941]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.02.14-09.11.59:284][941]LogScript: Warning: Script Msg called by: Revenant_AnimBlueprint_C /Engine/Transient.World_18:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.Revenant_AnimBlueprint_C_1
+[2024.02.14-09.11.59:284][941]LogAnimation: Error: AnimDynamics: Attempted to find bone chain starting at gun_handle_chain_back_03 and ending at gun_handle_chain_back_02 but failed.
+[2024.02.14-09.11.59:284][941]LogAnimation: Error: AnimDynamics: Attempted to find bone chain starting at gun_handle_chain_front_03 and ending at gun_handle_chain_front_02 but failed.
+[2024.02.14-09.11.59:285][941]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.02.14-09.11.59:285][941]LogScript: Warning: Script Msg called by: Revenant_AnimBlueprint_C /Engine/Transient.World_6:PersistentLevel.BP_ThirdPersonCharacter_C_17.CharacterMesh0.Revenant_AnimBlueprint_C_0
+[2024.02.14-09.11.59:286][941]LogAnimation: Error: AnimDynamics: Attempted to find bone chain starting at gun_handle_chain_back_03 and ending at gun_handle_chain_back_02 but failed.
+[2024.02.14-09.11.59:286][941]LogAnimation: Error: AnimDynamics: Attempted to find bone chain starting at gun_handle_chain_front_03 and ending at gun_handle_chain_front_02 but failed.
+[2024.02.14-09.11.59:327][941]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.02.14-09.11.59:327][941]LogScript: Warning: Script Msg called by: Revenant_AnimBlueprint_C /Engine/Transient.World_7:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.Revenant_AnimBlueprint_C_1
+[2024.02.14-09.11.59:328][941]LogAnimation: Error: AnimDynamics: Attempted to find bone chain starting at gun_handle_chain_back_03 and ending at gun_handle_chain_back_02 but failed.
+[2024.02.14-09.11.59:328][941]LogAnimation: Error: AnimDynamics: Attempted to find bone chain starting at gun_handle_chain_front_03 and ending at gun_handle_chain_front_02 but failed.
+[2024.02.14-09.11.59:330][941]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.02.14-09.11.59:330][941]LogScript: Warning: Script Msg called by: Revenant_AnimBlueprint_C /Engine/Transient.World_18:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.Revenant_AnimBlueprint_C_1
+[2024.02.14-09.11.59:330][941]LogAnimation: Error: AnimDynamics: Attempted to find bone chain starting at gun_handle_chain_back_03 and ending at gun_handle_chain_back_02 but failed.
+[2024.02.14-09.11.59:330][941]LogAnimation: Error: AnimDynamics: Attempted to find bone chain starting at gun_handle_chain_front_03 and ending at gun_handle_chain_front_02 but failed.
+[2024.02.14-09.11.59:333][941]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.02.14-09.11.59:333][941]LogScript: Warning: Script Msg called by: Revenant_AnimBlueprint_C /Engine/Transient.World_6:PersistentLevel.BP_ThirdPersonCharacter_C_17.CharacterMesh0.Revenant_AnimBlueprint_C_0
+[2024.02.14-09.11.59:334][941]LogAnimation: Error: AnimDynamics: Attempted to find bone chain starting at gun_handle_chain_back_03 and ending at gun_handle_chain_back_02 but failed.
+[2024.02.14-09.11.59:334][941]LogAnimation: Error: AnimDynamics: Attempted to find bone chain starting at gun_handle_chain_front_03 and ending at gun_handle_chain_front_02 but failed.
+[2024.02.14-09.11.59:740][971]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.14-09.11.59:792][971]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/MutiplayerGameMode
+[2024.02.14-09.11.59:792][971]LogSavePackage: Moving '../../../../../Python_Projekty/matfyz/ZS3/GE/Chaos_Royale/TopDown2DShooter/Saved/MutiplayerGameModeC7B845934EDB1EC96E96A4B68B182339.tmp' to '../../../../../Python_Projekty/matfyz/ZS3/GE/Chaos_Royale/TopDown2DShooter/Content/ThirdPerson/Blueprints/MutiplayerGameMode.uasset'
+[2024.02.14-09.11.59:802][971]LogFileHelpers: InternalPromptForCheckoutAndSave took 61 ms (total: 3.74 sec)
+[2024.02.14-09.11.59:811][971]AssetCheck: New page: Asset Save: MutiplayerGameMode
+[2024.02.14-09.11.59:811][971]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/MutiplayerGameMode.MutiplayerGameMode
+[2024.02.14-09.12.01:902][179]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.14-09.12.01:913][179]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.14-09.12.01:913][179]PIE: New page: PIE session: Level_01 (Feb 14, 2024, 11:12:01 AM)
+[2024.02.14-09.12.01:937][179]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_01
+[2024.02.14-09.12.01:974][179]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036715s)
+[2024.02.14-09.12.01:974][179]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_01.Level_01 to /Game/Maps/UEDPIE_0_Level_01.Level_01 (0.036764s)
+[2024.02.14-09.12.01:974][179]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.14-09.12.01:974][179]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.14-09.12.01:975][179]LogAIModule: Creating AISystem for world Level_01
+[2024.02.14-09.12.01:975][179]LogPlayLevel: PIE: World Init took: (0.000985s)
+[2024.02.14-09.12.02:005][179]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2024.02.14-09.12.02:011][179]LogAudio: Display: Creating Audio Device:                 Id: 51, Scope: Unique, Realtime: True
+[2024.02.14-09.12.02:011][179]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.14-09.12.02:011][179]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.14-09.12.02:011][179]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.14-09.12.02:011][179]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.14-09.12.02:011][179]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.14-09.12.02:011][179]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.14-09.12.02:011][179]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.14-09.12.02:011][179]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.14-09.12.02:012][179]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.14-09.12.02:012][179]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.14-09.12.02:012][179]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.14-09.12.02:014][179]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.14-09.12.02:043][179]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Razer Nari Ultimate - Game)
+[2024.02.14-09.12.02:044][179]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.14-09.12.02:044][179]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.14-09.12.02:044][179]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.14-09.12.02:044][179]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=51
+[2024.02.14-09.12.02:044][179]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=51
+[2024.02.14-09.12.02:046][179]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=51
+[2024.02.14-09.12.02:046][179]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=51
+[2024.02.14-09.12.02:046][179]LogInit: FAudioDevice initialized with ID 51.
+[2024.02.14-09.12.02:046][179]LogAudio: Display: Audio Device (ID: 51) registered with world 'Level_01'.
+[2024.02.14-09.12.02:046][179]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 51
+[2024.02.14-09.12.02:050][179]LogLoad: Game class is 'MutiplayerGameMode_C'
+[2024.02.14-09.12.02:080][179]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2024.02.14-10.12.02
+[2024.02.14-09.12.02:080][179]LogWorld: Bringing up level for play took: 0.030030
+[2024.02.14-09.12.02:083][179]LogOnline: OSS: Created online subsystem instance for: :Context_82
+[2024.02.14-09.12.02:084][179]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2024.02.14-09.12.02:084][179]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2024.02.14-09.12.02:085][179]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2024.02.14-09.12.02:085][179]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2024.02.14-09.12.02:085][179]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.02.14-09.12.02:085][179]LogNet: GameNetDriver IpNetDriver_49 IpNetDriver listening on port 17777
+[2024.02.14-09.12.02:085][179]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for PlatformUserId 0,
+[2024.02.14-09.12.02:086][179]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.02.14-09.12.02:086][179]LogScript: Warning: Script Msg called by: Revenant_AnimBlueprint_C /Game/Maps/UEDPIE_0_Level_01.Level_01:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.Revenant_AnimBlueprint_C_0
+[2024.02.14-09.12.02:087][179]LogAnimation: Error: AnimDynamics: Attempted to find bone chain starting at gun_handle_chain_back_03 and ending at gun_handle_chain_back_02 but failed.
+[2024.02.14-09.12.02:087][179]LogAnimation: Error: AnimDynamics: Attempted to find bone chain starting at gun_handle_chain_front_03 and ending at gun_handle_chain_front_02 but failed.
+[2024.02.14-09.12.02:087][179]LogSkeletalMesh: Display: OnRegister[/Game/ParagonRevenant/Characters/Heroes/Revenant/Skins/ChronoBoss/Meshes/Revenant_ChronoBoss.Revenant_ChronoBoss]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2024.02.14-09.12.02:087][179]LogSkeletalMesh: Display: OnRegister[/Game/ParagonRevenant/Characters/Heroes/Revenant/Skins/ChronoBoss/Meshes/Revenant_ChronoBoss.Revenant_ChronoBoss]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2024.02.14-09.12.02:100][179]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.02.14-09.12.02:100][179]LogScript: Warning: Script Msg called by: Revenant_AnimBlueprint_C /Game/Maps/UEDPIE_0_Level_01.Level_01:PersistentLevel.BP_ThirdPersonCharacter_C_1.CharacterMesh0.Revenant_AnimBlueprint_C_0
+[2024.02.14-09.12.02:100][179]LogAnimation: Error: AnimDynamics: Attempted to find bone chain starting at gun_handle_chain_back_03 and ending at gun_handle_chain_back_02 but failed.
+[2024.02.14-09.12.02:100][179]LogAnimation: Error: AnimDynamics: Attempted to find bone chain starting at gun_handle_chain_front_03 and ending at gun_handle_chain_front_02 but failed.
+[2024.02.14-09.12.02:100][179]LogSkeletalMesh: Display: OnRegister[/Game/ParagonRevenant/Characters/Heroes/Revenant/Skins/ChronoBoss/Meshes/Revenant_ChronoBoss.Revenant_ChronoBoss]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2024.02.14-09.12.02:100][179]LogSkeletalMesh: Display: OnRegister[/Game/ParagonRevenant/Characters/Heroes/Revenant/Skins/ChronoBoss/Meshes/Revenant_ChronoBoss.Revenant_ChronoBoss]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2024.02.14-09.12.02:105][179]PIE: Server logged in
+[2024.02.14-09.12.02:106][179]PIE: Play in editor total start time 0.193 seconds.
+[2024.02.14-09.12.02:195][179]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.12.02:195][179]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.12.02:196][179]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.12.02:197][179]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.12.02:198][179]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.12.02:198][179]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.12.02:199][179]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.12.02:199][179]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.12.02:200][179]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.12.02:200][179]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.12.02:201][179]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.12.02:201][179]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.12.02:204][179]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.12.02:204][179]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.12.04:256][408]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonRevenant/Characters/Heroes/Revenant/Animations/LevelStart_Montage.LevelStart_Montage'
+[2024.02.14-09.12.04:256][408]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonRevenant/Characters/Heroes/Revenant/Animations/LevelStart_Montage.LevelStart_Montage'
+[2024.02.14-09.12.16:282][755]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_1] Server: Player: 1
+[2024.02.14-09.12.16:282][755]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_1] Server: Health: 100.0
+[2024.02.14-09.12.16:282][755]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_1] Server: Dmg: 100.0
+[2024.02.14-09.12.16:282][755]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_1] Server: Deaths: 0
+[2024.02.14-09.12.16:912][825]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_1] Server: Player: 1
+[2024.02.14-09.12.16:912][825]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_1] Server: Health: 66.0
+[2024.02.14-09.12.16:912][825]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_1] Server: Dmg: 100.0
+[2024.02.14-09.12.16:912][825]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_1] Server: Deaths: 0
+[2024.02.14-09.12.18:873][ 44]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_1] Server: Player: 1
+[2024.02.14-09.12.18:873][ 44]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_1] Server: Health: 32.0
+[2024.02.14-09.12.18:873][ 44]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_1] Server: Dmg: 100.0
+[2024.02.14-09.12.18:873][ 44]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_1] Server: Deaths: 0
+[2024.02.14-09.12.38:129][226]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_1] Server: Player: 1
+[2024.02.14-09.12.38:129][226]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_1] Server: Health: 200.0
+[2024.02.14-09.12.38:129][226]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_1] Server: Dmg: 34.0
+[2024.02.14-09.12.38:129][226]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_1] Server: Deaths: 1
+[2024.02.14-09.12.38:416][259]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_1] Server: Player: 1
+[2024.02.14-09.12.38:417][259]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_1] Server: Health: 166.0
+[2024.02.14-09.12.38:417][259]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_1] Server: Dmg: 34.0
+[2024.02.14-09.12.38:417][259]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_1] Server: Deaths: 1
+[2024.02.14-09.12.38:603][280]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_1] Server: Player: 1
+[2024.02.14-09.12.38:603][280]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_1] Server: Health: 132.0
+[2024.02.14-09.12.38:603][280]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_1] Server: Dmg: 34.0
+[2024.02.14-09.12.38:603][280]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_1] Server: Deaths: 1
+[2024.02.14-09.12.38:770][299]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_1] Server: Player: 1
+[2024.02.14-09.12.38:770][299]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_1] Server: Health: 98.0
+[2024.02.14-09.12.38:770][299]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_1] Server: Dmg: 34.0
+[2024.02.14-09.12.38:770][299]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_1] Server: Deaths: 1
+[2024.02.14-09.12.39:350][365]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_1] Server: Player: 1
+[2024.02.14-09.12.39:350][365]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_1] Server: Health: 64.0
+[2024.02.14-09.12.39:350][365]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_1] Server: Dmg: 34.0
+[2024.02.14-09.12.39:350][365]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_1] Server: Deaths: 1
+[2024.02.14-09.12.39:677][402]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_1] Server: Player: 1
+[2024.02.14-09.12.39:677][402]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_1] Server: Health: 30.0
+[2024.02.14-09.12.39:677][402]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_1] Server: Dmg: 34.0
+[2024.02.14-09.12.39:677][402]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_1] Server: Deaths: 1
+[2024.02.14-09.12.46:991][218]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.14-09.12.46:991][218]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level_01
+[2024.02.14-09.12.46:991][218]LogWorld: UWorld::CleanupWorld for Level_01, bSessionEnded=true, bCleanupResources=true
+[2024.02.14-09.12.46:995][218]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.14-09.12.46:999][218]LogNet: World NetDriver shutdown IpNetDriver_49 [GameNetDriver]
+[2024.02.14-09.12.46:999][218]LogNet: DestroyNamedNetDriver IpNetDriver_49 [GameNetDriver]
+[2024.02.14-09.12.46:999][218]LogExit: GameNetDriver IpNetDriver_49 shut down
+[2024.02.14-09.12.47:002][218]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.14-09.12.47:009][218]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.14-09.12.47:043][218]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.14-09.12.47:043][218]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 51
+[2024.02.14-09.12.47:043][218]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=51
+[2024.02.14-09.12.47:045][218]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=51
+[2024.02.14-09.12.47:048][218]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.14-09.12.47:058][218]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2024.02.14-09.12.47:106][218]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.12.47:107][218]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.12.47:107][218]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.12.47:107][218]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.12.47:108][218]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.12.47:108][218]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.12.47:108][218]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.12.47:109][218]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.12.47:110][218]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.12.47:110][218]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.12.47:110][218]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.12.47:111][218]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.12.47:113][218]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.12.47:113][218]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.12.47:116][219]LogPlayLevel: Display: Destroying online subsystem :Context_82
+[2024.02.14-09.15.17:537][312]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.14-09.15.17:548][312]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.02.14-09.15.17:548][312]LogPlayLevel: [PlayLevel] Compiling PauseMenu before play...
+[2024.02.14-09.15.17:703][312]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.02.14-09.15.17:706][312]LogPlayLevel: PlayLevel: Blueprint regeneration took 158 ms (1 blueprints)
+[2024.02.14-09.15.17:707][312]PIE: New page: PIE session: Level_01 (Feb 14, 2024, 11:15:17 AM)
+[2024.02.14-09.15.17:707][312]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_01
+[2024.02.14-09.15.17:742][312]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034954s)
+[2024.02.14-09.15.17:742][312]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_01.Level_01 to /Game/Maps/UEDPIE_0_Level_01.Level_01 (0.034993s)
+[2024.02.14-09.15.17:742][312]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.14-09.15.17:742][312]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.14-09.15.17:742][312]LogAIModule: Creating AISystem for world Level_01
+[2024.02.14-09.15.17:743][312]LogPlayLevel: PIE: World Init took: (0.000940s)
+[2024.02.14-09.15.17:770][312]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2024.02.14-09.15.17:772][312]LogAudio: Display: Creating Audio Device:                 Id: 52, Scope: Unique, Realtime: True
+[2024.02.14-09.15.17:772][312]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.14-09.15.17:772][312]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.14-09.15.17:772][312]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.14-09.15.17:772][312]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.14-09.15.17:772][312]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.14-09.15.17:772][312]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.14-09.15.17:772][312]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.14-09.15.17:772][312]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.14-09.15.17:773][312]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.14-09.15.17:773][312]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.14-09.15.17:773][312]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.14-09.15.17:775][312]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.14-09.15.17:805][312]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Razer Nari Ultimate - Game)
+[2024.02.14-09.15.17:805][312]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.14-09.15.17:805][312]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.14-09.15.17:805][312]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.14-09.15.17:807][312]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=52
+[2024.02.14-09.15.17:807][312]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=52
+[2024.02.14-09.15.17:808][312]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=52
+[2024.02.14-09.15.17:808][312]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=52
+[2024.02.14-09.15.17:808][312]LogInit: FAudioDevice initialized with ID 52.
+[2024.02.14-09.15.17:808][312]LogAudio: Display: Audio Device (ID: 52) registered with world 'Level_01'.
+[2024.02.14-09.15.17:808][312]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 52
+[2024.02.14-09.15.17:811][312]LogLoad: Game class is 'MutiplayerGameMode_C'
+[2024.02.14-09.15.17:842][312]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2024.02.14-10.15.17
+[2024.02.14-09.15.17:842][312]LogWorld: Bringing up level for play took: 0.030579
+[2024.02.14-09.15.17:845][312]LogOnline: OSS: Created online subsystem instance for: :Context_83
+[2024.02.14-09.15.17:846][312]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2024.02.14-09.15.17:846][312]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2024.02.14-09.15.17:846][312]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2024.02.14-09.15.17:846][312]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2024.02.14-09.15.17:846][312]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.02.14-09.15.17:846][312]LogNet: GameNetDriver IpNetDriver_50 IpNetDriver listening on port 17777
+[2024.02.14-09.15.17:846][312]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for PlatformUserId 0,
+[2024.02.14-09.15.17:847][312]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.02.14-09.15.17:847][312]LogScript: Warning: Script Msg called by: Revenant_AnimBlueprint_C /Game/Maps/UEDPIE_0_Level_01.Level_01:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.Revenant_AnimBlueprint_C_0
+[2024.02.14-09.15.17:847][312]LogAnimation: Error: AnimDynamics: Attempted to find bone chain starting at gun_handle_chain_back_03 and ending at gun_handle_chain_back_02 but failed.
+[2024.02.14-09.15.17:847][312]LogAnimation: Error: AnimDynamics: Attempted to find bone chain starting at gun_handle_chain_front_03 and ending at gun_handle_chain_front_02 but failed.
+[2024.02.14-09.15.17:848][312]LogSkeletalMesh: Display: OnRegister[/Game/ParagonRevenant/Characters/Heroes/Revenant/Skins/ChronoBoss/Meshes/Revenant_ChronoBoss.Revenant_ChronoBoss]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2024.02.14-09.15.17:848][312]LogSkeletalMesh: Display: OnRegister[/Game/ParagonRevenant/Characters/Heroes/Revenant/Skins/ChronoBoss/Meshes/Revenant_ChronoBoss.Revenant_ChronoBoss]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2024.02.14-09.15.17:859][312]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.02.14-09.15.17:859][312]LogScript: Warning: Script Msg called by: Revenant_AnimBlueprint_C /Game/Maps/UEDPIE_0_Level_01.Level_01:PersistentLevel.BP_ThirdPersonCharacter_C_1.CharacterMesh0.Revenant_AnimBlueprint_C_0
+[2024.02.14-09.15.17:859][312]LogAnimation: Error: AnimDynamics: Attempted to find bone chain starting at gun_handle_chain_back_03 and ending at gun_handle_chain_back_02 but failed.
+[2024.02.14-09.15.17:859][312]LogAnimation: Error: AnimDynamics: Attempted to find bone chain starting at gun_handle_chain_front_03 and ending at gun_handle_chain_front_02 but failed.
+[2024.02.14-09.15.17:859][312]LogSkeletalMesh: Display: OnRegister[/Game/ParagonRevenant/Characters/Heroes/Revenant/Skins/ChronoBoss/Meshes/Revenant_ChronoBoss.Revenant_ChronoBoss]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2024.02.14-09.15.17:859][312]LogSkeletalMesh: Display: OnRegister[/Game/ParagonRevenant/Characters/Heroes/Revenant/Skins/ChronoBoss/Meshes/Revenant_ChronoBoss.Revenant_ChronoBoss]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2024.02.14-09.15.17:865][312]PIE: Server logged in
+[2024.02.14-09.15.17:866][312]PIE: Play in editor total start time 0.319 seconds.
+[2024.02.14-09.15.17:891][312]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.15.17:892][312]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.15.17:892][312]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.15.17:892][312]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.15.17:893][312]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.15.17:893][312]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.15.17:894][312]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.15.17:896][312]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.15.17:896][312]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.15.17:897][312]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.15.17:897][312]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.15.17:898][312]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.15.17:902][312]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.15.17:902][312]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.15.19:892][514]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonRevenant/Characters/Heroes/Revenant/Animations/LevelStart_Montage.LevelStart_Montage'
+[2024.02.14-09.15.19:892][514]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonRevenant/Characters/Heroes/Revenant/Animations/LevelStart_Montage.LevelStart_Montage'
+[2024.02.14-09.15.21:842][721]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Server: Player: 0
+[2024.02.14-09.15.21:842][721]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Server: Health: 100.0
+[2024.02.14-09.15.21:842][721]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Server: Dmg: 34.0
+[2024.02.14-09.15.21:842][721]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Server: Deaths: 0
+[2024.02.14-09.15.22:016][740]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Server: Player: 0
+[2024.02.14-09.15.22:016][740]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Server: Health: 66.0
+[2024.02.14-09.15.22:016][740]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Server: Dmg: 34.0
+[2024.02.14-09.15.22:016][740]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Server: Deaths: 0
+[2024.02.14-09.15.22:189][759]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Server: Player: 0
+[2024.02.14-09.15.22:190][759]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Server: Health: 32.0
+[2024.02.14-09.15.22:190][759]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Server: Dmg: 34.0
+[2024.02.14-09.15.22:190][759]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Server: Deaths: 0
+[2024.02.14-09.15.25:441][107]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Server: Player: 0
+[2024.02.14-09.15.25:441][107]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Server: Health: 100.0
+[2024.02.14-09.15.25:441][107]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Server: Dmg: 34.0
+[2024.02.14-09.15.25:441][107]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Server: Deaths: 1
+[2024.02.14-09.15.25:587][121]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Server: Player: 0
+[2024.02.14-09.15.25:587][121]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Server: Health: 66.0
+[2024.02.14-09.15.25:587][121]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Server: Dmg: 34.0
+[2024.02.14-09.15.25:587][121]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Server: Deaths: 1
+[2024.02.14-09.15.26:125][179]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Server: Player: 0
+[2024.02.14-09.15.26:125][179]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Server: Health: 32.0
+[2024.02.14-09.15.26:125][179]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Server: Dmg: 34.0
+[2024.02.14-09.15.26:125][179]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Server: Deaths: 1
+[2024.02.14-09.15.28:963][489]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_1] Server: Player: 1
+[2024.02.14-09.15.28:963][489]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_1] Server: Health: 100.0
+[2024.02.14-09.15.28:963][489]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_1] Server: Dmg: 34.0
+[2024.02.14-09.15.28:963][489]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_1] Server: Deaths: 0
+[2024.02.14-09.15.29:108][504]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_1] Server: Player: 1
+[2024.02.14-09.15.29:108][504]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_1] Server: Health: 66.0
+[2024.02.14-09.15.29:108][504]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_1] Server: Dmg: 34.0
+[2024.02.14-09.15.29:108][504]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_1] Server: Deaths: 0
+[2024.02.14-09.15.29:579][552]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_1] Server: Player: 1
+[2024.02.14-09.15.29:579][552]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_1] Server: Health: 32.0
+[2024.02.14-09.15.29:579][552]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_1] Server: Dmg: 34.0
+[2024.02.14-09.15.29:579][552]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_1] Server: Deaths: 0
+[2024.02.14-09.15.40:298][704]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.14-09.15.40:298][704]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level_01
+[2024.02.14-09.15.40:299][704]LogWorld: UWorld::CleanupWorld for Level_01, bSessionEnded=true, bCleanupResources=true
+[2024.02.14-09.15.40:304][704]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.14-09.15.40:307][704]LogNet: World NetDriver shutdown IpNetDriver_50 [GameNetDriver]
+[2024.02.14-09.15.40:307][704]LogNet: DestroyNamedNetDriver IpNetDriver_50 [GameNetDriver]
+[2024.02.14-09.15.40:307][704]LogExit: GameNetDriver IpNetDriver_50 shut down
+[2024.02.14-09.15.40:309][704]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.14-09.15.40:317][704]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.14-09.15.40:347][704]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.14-09.15.40:349][704]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 52
+[2024.02.14-09.15.40:349][704]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=52
+[2024.02.14-09.15.40:352][704]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=52
+[2024.02.14-09.15.40:366][704]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2024.02.14-09.15.40:412][704]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.15.40:412][704]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.15.40:413][704]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.15.40:413][704]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.15.40:413][704]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.15.40:414][704]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.15.40:414][704]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.15.40:415][704]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.15.40:415][704]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.15.40:416][704]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.15.40:416][704]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.15.40:416][704]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.15.40:419][704]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.15.40:419][704]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.14-09.15.40:422][705]LogPlayLevel: Display: Destroying online subsystem :Context_83
+[2024.02.14-09.16.46:509][433]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2024.02.14-09.16.46:516][433]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.14-09.16.46:548][433]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/NewHUD" FILE="../../../../../Python_Projekty/matfyz/ZS3/GE/Chaos_Royale/TopDown2DShooter/Content/HUD/NewHUD.uasset" SILENT=true
+[2024.02.14-09.16.46:562][433]LogSavePackage: Moving output files for package: /Game/HUD/NewHUD
+[2024.02.14-09.16.46:563][433]LogSavePackage: Moving '../../../../../Python_Projekty/matfyz/ZS3/GE/Chaos_Royale/TopDown2DShooter/Saved/NewHUD1870E2954EC20C5C1ABA11B178778450.tmp' to '../../../../../Python_Projekty/matfyz/ZS3/GE/Chaos_Royale/TopDown2DShooter/Content/HUD/NewHUD.uasset'
+[2024.02.14-09.16.46:568][433]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/PauseMenu" FILE="../../../../../Python_Projekty/matfyz/ZS3/GE/Chaos_Royale/TopDown2DShooter/Content/HUD/PauseMenu.uasset" SILENT=true
+[2024.02.14-09.16.46:574][433]LogSavePackage: Moving output files for package: /Game/HUD/PauseMenu
+[2024.02.14-09.16.46:574][433]LogSavePackage: Moving '../../../../../Python_Projekty/matfyz/ZS3/GE/Chaos_Royale/TopDown2DShooter/Saved/PauseMenuEB93E40E4844120CC71419BCE2B3999A.tmp' to '../../../../../Python_Projekty/matfyz/ZS3/GE/Chaos_Royale/TopDown2DShooter/Content/HUD/PauseMenu.uasset'
+[2024.02.14-09.16.46:583][433]LogFileHelpers: InternalPromptForCheckoutAndSave took 66 ms (total: 3.81 sec)
+[2024.02.14-09.16.46:594][433]AssetCheck: New page: Asset Save: multiple assets
+[2024.02.14-09.16.46:594][433]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/HUD/NewHUD.NewHUD
+[2024.02.14-09.16.46:594][433]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/HUD/PauseMenu.PauseMenu
